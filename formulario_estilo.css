@@ -36,6 +36,14 @@
     align-self: center;
 }
 
+.formulario button:hover{
+    background: red;
+}
+
+.formulario button:active{
+    transform: scale(0.98);
+}
+
 .formulario input{
     padding: 10px 15px; 
     text-align: center;
