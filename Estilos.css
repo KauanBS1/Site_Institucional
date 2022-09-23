@@ -24,6 +24,10 @@ body{
     justify-content: space-between;
     
 }
+.header ul #aqui{
+    font-weight: 1000;
+    color: #32b9cd;
+}
 
 .navbar{
     display: flex;
@@ -33,6 +37,20 @@ body{
     list-style: none;
     align-items: center;
 }
+
+a {
+    color:#e3b062;
+    text-decoration: none;
+    background-color: #e5e5e527;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+a:hover{
+    background-color: white;
+    color: #32b9cd;
+}
+
 
 /* Banner*/
 
